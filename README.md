@@ -1,8 +1,8 @@
 # Cloud Service Alternatives Report
 *CST8919 – DevOps Security & Compliance – Assignment 2*
 
-*Student Name:* Rahaf Alkhlaf
-*Student Username:* alkh0115
+- *Student Name:* Rahaf Alkhlaf
+- *Student Username:* alkh0115
 
 ## Introduction
 This report compares key Microsoft Azure security, compliance, and monitoring services studied in the CST8919 course with their closest equivalents in Amazon Web Services (AWS) and Google Cloud Platform (GCP). For each service, an overview table presents the corresponding offerings across the three cloud providers, followed by a comparison of core features, security and compliance capabilities, pricing models, and DevSecOps integration considerations.
