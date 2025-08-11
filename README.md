@@ -140,4 +140,21 @@ This report compares key Microsoft Azure security, compliance, and monitoring se
 - All integrate with monitoring tools, workflow automation, and security incident response processes.
 
 ---
+## References
+
+Amazon Web Services. (n.d.). *What is IAM?*. Retrieved from https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html  
+Amazon Web Services. (n.d.). *What is Amazon Detective?*. Retrieved from https://docs.aws.amazon.com/detective/latest/userguide/what-is-detective.html  
+Amazon Web Services. (2025, July 30). *What Is AWS Config?*. Retrieved from https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html  
+Amazon Web Services. (2025, August 2). *What is AWS Security Hub CSPM?*. Retrieved from https://docs.aws.amazon.com/securityhub/latest/userguide/what-is-securityhub.html  
+Amazon Web Services. (2025, August 8). *What is Amazon CloudWatch?*. Retrieved from https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html  
+Google Cloud. (2025, August 7). *Cloud Monitoring overview*. Retrieved from https://cloud.google.com/monitoring/docs/monitoring-overview  
+Google Cloud. (2025, August 7). *Google SecOps overview*. Retrieved from https://cloud.google.com/chronicle/docs/secops/secops-overview  
+Google Cloud. (2025, August 7). *IAM overview*. Retrieved from https://cloud.google.com/iam/docs/overview  
+Google Cloud. (2025, August 7). *Introduction to the Organization Policy Service*. Retrieved from https://cloud.google.com/resource-manager/docs/organization-policy/overview  
+Microsoft. (2025, March 4). *What is Azure Policy?*. Retrieved from https://learn.microsoft.com/en-us/azure/governance/policy/overview  
+Microsoft. (2025, May 23). *Azure Monitor overview*. Retrieved from https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview  
+Microsoft. (2025, June 20). *What is Microsoft Entra ID?*. Retrieved from https://learn.microsoft.com/en-us/entra/fundamentals/whatis  
+Microsoft. (2025, July 22). *What is Microsoft Sentinel?*. Retrieved from https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=defender-portal  
+Microsoft. (2025, July 23). *What is Microsoft Defender for Cloud?*. Retrieved from https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction  
+
 
